@@ -26,7 +26,7 @@ Install dependencies with:
 
 pip install numpy matplotlib
 
-Running the Notebook
+## Running the Notebook
 
 To reproduce the experiments:
 
